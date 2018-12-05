@@ -15,7 +15,7 @@ into this
 ## Installation
 
 ```
-> git clone https://github.com/travishorn/list-truefalse-value
+> git clone https://github.com/travishorn/list-truefalse-values
 ```
 
 ## Usage
