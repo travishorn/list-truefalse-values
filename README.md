@@ -6,11 +6,11 @@ header, a 1 (true) is entered, otherwise a 0 (false) is entered.
 
 Transform this
 
-![input.png](CSV without extra headers)
+![CSV without extra headers](input.png)
 
 into this
 
-![out.png](CSV with extra headers)
+![CSV with extra headers](output.png)
 
 ## Installation
 
